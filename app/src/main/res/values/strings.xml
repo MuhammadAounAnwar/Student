@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="camera_and_mic">these permissions are mandatory for this ap to operate.</string>
+</resources>
